@@ -1,2 +1,2 @@
 # vidly-redux
-Redux embeded for vidly project
+Redux embedded in to vidly project
